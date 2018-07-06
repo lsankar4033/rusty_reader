@@ -1,0 +1,6 @@
+[package]
+name = "rusty_reader"
+version = "0.1.0"
+authors = ["lsankar4033 <lsankar4033@gmail.com>"]
+
+[dependencies]
